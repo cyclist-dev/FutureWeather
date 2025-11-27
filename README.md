@@ -5,8 +5,6 @@
 
 ---
 
-## 🇧🇷 Português (PT-BR)
-
 ### 📖 Sobre o Projeto
 Este é um projeto desenvolvido para praticar minhas habilidades **Full Stack**. O objetivo foi criar um site onde o usuário consulta o clima de qualquer cidade e a interface "reage" a essa informação: o fundo da tela muda automaticamente dependendo se está sol, chovendo ou nublado.
 
